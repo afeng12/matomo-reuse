@@ -23,7 +23,8 @@ createApp(App)
     })
     .mount('#app')
 
-
+//type:event type, action:event behavior, name:event name
+VueMatomo.trackEvent(type,aciton,name);
 //When the user logs in, set the user ID.
 VueMatomo.setUserId('example-user-id');
 ```
