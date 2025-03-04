@@ -1,0 +1,18 @@
+{
+  "name": "matomo-reuse",
+  "version": "1.0.1",
+  "description": "Matomo Plugin for uniapp and reuse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "keywords": [
+    "[\"matomo\"",
+    "\"uniapp\"]"
+  ],
+  "author": "\"cc_zcf_123\"",
+  "license": "MIT",
+  "dependencies": {
+    "js-sha1": "^0.7.0"
+  }
+}
